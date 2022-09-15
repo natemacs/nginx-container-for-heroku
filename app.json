@@ -1,0 +1,8 @@
+{
+  "name": "nginx-heroku-container",
+  "description": "Nginx template using Docker adapted to heroku",
+  "repository": "https://github.com/natemacs",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg",
+  "keywords": [ "nginx", "heroku", "container", "template" ],
+  "stack": "container"
+}
